@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D13GO-FG a recent graduate of computer systems engineering specialized in software development and I have experience developing web and mobile applications.
+- 👋 Hi, I’m Diego Flore a recent graduate of computer systems engineering specialized in software development and I have experience developing web and mobile applications.
 - 👀 I’m interested in software, finance, blockchain innovations and recently Test Automation.
 - 🌱 I’m currently learning React and Selenium with Java.
 - 💻 I’m looking to collaborate on innovative companies focused on solving problems and creating positive impact, in a field like healt care industry.
