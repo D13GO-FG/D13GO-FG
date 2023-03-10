@@ -10,10 +10,7 @@
 - In my previous role as a junior programmer, I used C#, ASP.NET, and SQL Server to create web applications.  
   
 
-- I am currently looking for a position as a QA Automation Tester Engineer in a dynamic and challenging environment, where I can utilize my skills in test automation and development.  
-  
-
-- I am passionate about working with innovative companies that are focused on solving problems and creating a positive impact, and I am excited to find opportunities where I can contribute my knowledge and learn with the team.  
+- I am currently looking for a position as a QA Automation Tester Engineer in a dynamic and challenging environment, where I can utilize my skills in test automation and development. 
   
 
 - I am eager to collaborate with companies that prioritize innovation and have a positive impact on their industry or community. I am excited to bring my knowledge and expertise to the team while also learning from my colleagues to create meaningful solutions together.  
